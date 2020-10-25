@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExoPlayer</string>
+    <string name="default_url">Play default video</string>
+    <string name="play_url">Play video by URL</string>
+    <string name="type_your_url">Type your URL</string>
+    <string name="error_message_url_not_valid">URL not valid</string>
+</resources>
